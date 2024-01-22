@@ -1,0 +1,11 @@
+[
+    {
+        "route": "/Autocrm/:id",
+        "method": "get",
+        "params": {
+            "controller": "Autocrm",
+            "action": "contacts",
+            "id": ":id"
+        }
+    }
+]

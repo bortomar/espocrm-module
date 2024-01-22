@@ -1,0 +1,14 @@
+{
+    "detailActionList": [
+        "__APPEND__",
+        {
+            "label": "Find Contacts",
+            "name": "findContacts",
+            "acl": "edit",
+            "data": {
+                "handler": "custom:find-contacts"
+            },
+            "initFunction": "initFindContacts"
+        }
+    ]
+}
